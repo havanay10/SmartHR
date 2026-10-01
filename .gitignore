@@ -1,0 +1,19 @@
+# Environnement
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Exports
+exports/*.pdf
+exports/*.xlsx
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
